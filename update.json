@@ -1,6 +1,22 @@
 {
-  "F_Version" : 1.2,
-  "F_Url" :"abc",
-  "S_Version" : 1.0,
-  "S_Url" :"abcd"
+  "F_Verison": 1.0,
+  "F_Url": "219513540848",
+  "data": [
+    {
+      "key1": "rectifier_alarm.data.ac_fail",
+      "val1": "0"
+    },
+    {
+      "key2": "rectifier_alarm.data.rec_fail",
+      "val2": "0"
+    },
+    {
+      "key3": "rectifier_alarm.data.rect_comlost",
+      "val3": "0"
+    },
+    {
+      "key4": "rectifier_alarm.data.overload_status",
+      "val4": "0"
+    }
+  ]
 }
