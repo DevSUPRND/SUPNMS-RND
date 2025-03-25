@@ -1,0 +1,14 @@
+{
+  "F_Version": 1.0,
+  "F_Url": "219513540848",
+  "data": [
+    {
+      "key1": "rectifier_alarm.data.ac_fail",
+      "val1": "0"
+    },
+    {
+      "key4": "rectifier_alarm.data.overload_status",
+      "val4": "0"
+    }
+  ]
+}
